@@ -1,0 +1,17 @@
+Introduction To Machine Learning...
+Machine learning (ML) is a branch of Artificial Intelligence. Machine Learning in simple words learn by themselves using pattern so that they can perform various repetitive tasks by themselves.
+
+For example, the task of filling water in the tank whenever the tank gets empty. We teach the machine/model to detect whether the tank is empty or full. If the tank gets empty start the motor. It would do this repetitive task by themselves. Similarly we can also teach to machine to stop the motor whenever the tank is full. So train this model with multiple training data until we not get maximum accuracy.
+
+Steps for preparing a machine learning model are
+
+Collection of Data
+Handling the missing data
+Making the data consistent
+Deciding important key factors
+Splitting data into training and testing sets
+Applications of Machine Learning
+
+Face detection and finger print detection in our smartphones for unlocking our devices.
+Fraud transactions detection.
+Recommendation on the basis of our watch previous history.
